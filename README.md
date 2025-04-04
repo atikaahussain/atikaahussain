@@ -5,7 +5,7 @@
 - Computer science major sharing my crafted codes<br/>
 - Persuing computer science from FAST NUCES LHR<br/>
 - Currently working on game develpoment basics and advance logics in prorgammings<br/>
-- Making story boarding and sketched outlines for development<br/>
+- Making story boards and sketched outlines for development<br/>
 
 🌱 feel free to ask about creative ideas :)
 

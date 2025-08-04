@@ -1,6 +1,6 @@
 
 
-##### Hi everyone, I'm Atika!
+##### Hiii, I'm Atika!
 
 - Computer science major at FAST NUCES LHR<br/>
 - I do code, make some story boards and sketched outlines for development<br/>

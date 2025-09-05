@@ -3,9 +3,9 @@
 ##### Hiii, I'm Atika!
 
 - Computer science major at FAST NUCES LHR<br/>
-- I do code, make some story boards and sketched outlines for development<br/>
+- I do code, make some story boards and sketched outlines and a bit ofe everything<br/>
 
-🌱 feel free to ask about creative ideas :)
+🌱 feel free to ask about any creative ideas :)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ## 🌐  connect with me:

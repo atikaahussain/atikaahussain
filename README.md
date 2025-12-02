@@ -2,7 +2,7 @@
 
 ##### Hi, I'm Atika!
 
-- Computer science major at FAST NUCES LHR<br/>🌱
+- Computer science major at FAST NUCES LHR<br/> 🌱
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
